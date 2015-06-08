@@ -118,10 +118,10 @@ set wildmenu wildmode=list:full
 "}}}
 
 "カーソルを表示行で移動する。{{{2
-nnoremap <silent>j gj
-nnoremap <silent>k gk
-nnoremap <Down> gj
-nnoremap <Up> gk
+" nnoremap <silent>j gj
+" nnoremap <silent>k gk
+" nnoremap <Down> gj
+" nnoremap <Up> gk
 "}}}
 
 
