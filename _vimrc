@@ -48,13 +48,13 @@ NeoBundle 'Shougo/unite.vim' "‚·‚²‚¢‚â‚Â
 NeoBundle 'thinca/vim-quickrun' "\r ‚Å“®‚­
 NeoBundle 'Shougo/neosnippet-snippets' "neosnippet
 NeoBundle 'Shougo/neosnippet' "neosnippet
-if has('lua') "neocomplete{{{3
-				NeoBundleLazy 'Shougo/neocomplete.vim',{
-																\'depends':'Shougo/vimproc',
-																\'autoload':{'insert':1,}
-																\}
-endif	"}}}
-NeoBundle 'Townk/vim-autoclose'	"Š‡ŒÊ‚ðŽ©“®‚Å•Â‚¶‚é
+" if has('lua') "neocomplete{{{3
+				" NeoBundleLazy 'Shougo/neocomplete.vim',{
+																" \'depends':'Shougo/vimproc',
+																" \'autoload':{'insert':1,}
+																" \}
+" endif	"}}}
+" NeoBundle 'Townk/vim-autoclose'	"Š‡ŒÊ‚ðŽ©“®‚Å•Â‚¶‚é
 NeoBundle 'w0ng/vim-hybrid' "colorscheme
 "NeoBundle 'itchyny/lightline.vim' "lightline
 "NeoBundle 'tpope/vim-fugitive'	"git‚ðŽg‚¢‚â‚·‚­‚·‚é
