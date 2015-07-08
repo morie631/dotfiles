@@ -59,7 +59,7 @@ NeoBundle 'w0ng/vim-hybrid' "colorscheme
 "NeoBundle 'itchyny/lightline.vim' "lightline
 "NeoBundle 'tpope/vim-fugitive'	"gitを使いやすくする
 "NeoBundle 'airblade/vim-gitgutter'	"gitの差分を表示
-NeoBundle 'scrooloose/nerdcommenter' "コメントアウト
+NeoBundle 'scrooloose/nerdcommenter' "\/でコメントアウト
 
 
 
