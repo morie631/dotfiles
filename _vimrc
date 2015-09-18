@@ -60,7 +60,7 @@ NeoBundle 'w0ng/vim-hybrid' "colorscheme
 "NeoBundle 'tpope/vim-fugitive'	"gitを使いやすくする
 "NeoBundle 'airblade/vim-gitgutter'	"gitの差分を表示
 NeoBundle 'scrooloose/nerdcommenter' "\/でコメントアウト
-NeoBundle 'vim-scripts/Vim-R-plugin'
+NeoBundle 'vim-scripts/Vim-R-plugin' " R言語用
 
 
 
